@@ -6,6 +6,6 @@ export default class CreateRoomPage extends Component {
   }
 
   render() {
-    return <p>This is the create room page</p>;
+    return <p>Esta es la Pagina para Crear Sala</p>;
   }
 }
